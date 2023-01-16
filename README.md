@@ -65,6 +65,6 @@ RANDOM IMAGE FROM A BREED COLLECTION: https://dog.ceo/api/breed/hound/images/ran
 Ja w swojej aplikacji napisanej w PHP użyłem formularza. Pole z wyborem rasy zrobiłem jako lista rozwijalna, dane są pobierane z serwisu REST API. Po naciśnięciu przycisku jest wyświetlane zdjęcie, które jest wylosowane przez serwis REST API.\
 Postman jest mniej elastyczny w tej kwestii. Wyświetla on tylko linki do stron ze zdjęciami.
 
-##Podsumowanie
+## Podsumowanie
 
 
