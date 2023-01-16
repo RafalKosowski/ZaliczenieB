@@ -1,37 +1,37 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
-    }
+}
 
-    .menu a {
+.menu a {
     display: inline-block;
     padding: 10px;
     text-decoration: none;
     color: black;
     font-size: x-large;
-    }
-    
-    .menu a.active {
+}
+
+.menu a.active {
     background-color: #429744;
     color: white;
-    }
-    
-    .temp {
+}
+
+.temp {
     background-color: #f2f2f2;
     padding: 20px;
     border-radius: 5px;
     margin: 20px;
-    }
-    
-    .temp input[type=number] {
+}
+
+.temp input[type=number] {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
-    }
-    
-    .temp input[type=submit] {
+}
+
+.temp input[type=submit] {
     background-color: #429744;
     color: white;
     padding: 12px 20px;
@@ -39,51 +39,60 @@ body {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    }
-    
-    footer {
+}
+
+footer {
     background-color: #429744;
     color: white;
     text-align: center;
     padding: 20px;
-    }
+}
 
-    .menu a:hover {
-        background-color: #555;
-        color: white;
-        }
-        
-        input[type=submit]:hover {
-        background-color: #317034;
-        }
+.menu a:hover {
+    background-color: #555;
+    color: white;
+}
 
-        label {
-            font-weight: bold;
-            margin-right: 10px;
-            }
-            
-            select {
-            padding: 12px 20px;
-            margin: 8px 0;
-            box-sizing: border-box;
-            border: 2px solid #ccc;
-            border-radius: 4px;
-            }
-            #fota img {
-                width: 100%;
-                max-width: 500px;
-                width: fit-content;
-                max-height: 500px;
-                
-                border: #1b3e1d solid 10px;
-              border-radius: 20px;
-                }
-                input[type=submit] {
-                    background-color: #429744;
-                    color: white;
-                    padding: 12px 20px;
-                    margin: 8px 0;
-                    border: none;
-                    border-radius: 4px;
-                    cursor: pointer;
-                    }
+input[type=submit]:hover {
+    background-color: #317034;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+select {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+#fota img {
+    width: 100%;
+    max-width: 500px;
+    width: fit-content;
+    max-height: 500px;
+
+    border: #1b3e1d solid 10px;
+    border-radius: 20px;
+}
+
+input[type=submit] {
+    background-color: #429744;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
