@@ -67,4 +67,12 @@ Postman jest mniej elastyczny w tej kwestii. Wyświetla on tylko linki do stron 
 
 ## Podsumowanie
 
+### Wygląd strony converter.php
+![image](https://user-images.githubusercontent.com/47899050/212671484-c2092be3-671a-428a-b8e5-886903eff301.png)
+
+### Wygląd strony dogs.php
+![image](https://user-images.githubusercontent.com/47899050/212671566-e10899eb-ec8a-4bc3-ac10-d2d2cc0ceffc.png)
+
+
+
 
